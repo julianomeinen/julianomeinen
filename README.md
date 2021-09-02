@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @julianomeinen
 - 👀  I am interested in learning and helping.
 - 🌱  I'm currently learning new technologies (frond-end and back-end) and methodologies (SOLID).
-- 💞️  I'm looking to collaborate with anyone who might need help..
+- 💞️  I'm looking to collaborate with anyone who might need help.
 - 📫  You can contact me at julianomeinen.souza@gmail.com.
 - See you!
